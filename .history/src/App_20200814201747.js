@@ -1,14 +1,12 @@
 import React from 'react';
+import logo from './logo.svg';
+import Task from
 import './App.css';
 
 function App() {
   return (
-
-    <section>
-      <p>olá</p>
-      
-
-    </section>
+    <p>olá</p>
+    <Task />
   );
 }
 

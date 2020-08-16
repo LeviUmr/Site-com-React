@@ -6,7 +6,7 @@ function App() {
 
     <section>
       <p>olá</p>
-      
+      <Task />
 
     </section>
   );

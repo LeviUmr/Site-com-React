@@ -1,4 +1,5 @@
 import React from 'react';
+import Task from 'Task';
 import './App.css';
 
 function App() {
@@ -6,7 +7,7 @@ function App() {
 
     <section>
       <p>olá</p>
-      
+      <Task />
 
     </section>
   );
